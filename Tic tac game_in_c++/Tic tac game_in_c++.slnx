@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tic tac game_in_c++/Tic tac game_in_c++.vcxproj" Id="af51a9a2-8cdf-4a13-97a6-e3b9a978c3de" />
+</Solution>
